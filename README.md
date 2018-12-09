@@ -7,5 +7,7 @@ Eagle CAD foorprints designed by Nima Sajedi
 + <b>SP3232.lbr</b></br>MaxLinear SP3232EEY footprint, TSSOP-16 package only.
 </br>Datasheet: https<span>://w</span>ww.exar.com/ds/sp3222e_sp3232e.pdf
   
-
++ <b>ST4ETB201.lbr</b></br>Nidec Copal ST4ETB footprint.
+</br>Datasheet and more info: https<span>://w</span>ww.nidec-copal-electronics.com/e/catalog/trimmer/st-4.pdf
+</br>https<span>://w</span>ww.digikey.com/product-detail/en/nidec-copal-electronics/ST4ETB201/ST4ETB201CT-ND/738516
 
