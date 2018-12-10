@@ -115,6 +115,7 @@
 </symbols>
 <devicesets>
 <deviceset name="BAT54CL">
+<description>https://www.onsemi.com/pub/Collateral/BAT54CLT1-D.PDF</description>
 <gates>
 <gate name="G$1" symbol="BAT54CL" x="2.54" y="-2.54"/>
 </gates>
