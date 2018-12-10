@@ -14,3 +14,6 @@ Eagle CAD foorprints designed by Nima Sajedi
 
 + <b>AP7380.lbr</b></br>Diodes AP7380 footprint, SOT25-5 package only.
 </br>Datasheet: https<span>://w</span>ww.diodes.com/assets/Datasheets/AP7380.pdf
+
++ <b>3314G-1.lbr</b></br>Bourns 3314G-1 Trimmer Resistors footprint.
+</br>Datasheet: https<span>://w</span>ww.bourns.com/docs/Product-Datasheets/3314.pdf
