@@ -17,3 +17,6 @@ Eagle CAD foorprints designed by Nima Sajedi
 
 + <b>3314G-1.lbr</b></br>Bourns 3314G-1 trimmer resistors footprint.
 </br>Datasheet: https<span>://w</span>ww.bourns.com/docs/Product-Datasheets/3314.pdf
+
++ <b>BAT54CL.lbr</b></br>ON Semiconductor DUAL COMMON CATHODE SCHOTTKY BARRIER DIODES footprint.
+</br>Datasheet: https<span>://w</span>ww.onsemi.com/pub/Collateral/BAT54CLT1-D.PDF
