@@ -11,3 +11,6 @@ Eagle CAD foorprints designed by Nima Sajedi
 </br>Datasheet and more info: https<span>://w</span>ww.nidec-copal-electronics.com/e/catalog/trimmer/st-4.pdf
 </br>https<span>://w</span>ww.digikey.com/product-detail/en/nidec-copal-electronics/ST4ETB201/ST4ETB201CT-ND/738516
 
+
++ <b>AP7380.lbr</b></br>Diodes AP7380 footprint, SOT25-5 package only.
+</br>Datasheet: https<span>://w</span>ww.diodes.com/assets/Datasheets/AP7380.pdf
