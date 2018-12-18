@@ -20,3 +20,6 @@ Eagle CAD foorprints designed by Nima Sajedi
 
 + <b>BAT54CL.lbr</b></br>ON Semiconductor SBAT54CLT1G dual common cathode schottkey diodes footprint.
 </br>Datasheet: https<span>://w</span>ww.onsemi.com/pub/Collateral/BAT54CLT1-D.PDF
+
++ <b>MAX3180EE.lbr</b></br>Maxim Integrated MAX3180EE RS-232 Interface IC footprint.
+</br>Datasheet: https<span>://</span>datasheets.maximintegrated.com/en/ds/MAX3180E-MAX3183E.pdf
