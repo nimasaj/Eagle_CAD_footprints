@@ -23,3 +23,7 @@ Eagle CAD foorprints designed by Nima Sajedi
 
 + <b>MAX3180EE.lbr</b></br>Maxim Integrated MAX3180EE RS-232 Interface IC footprint.
 </br>Datasheet: https<span>://</span>datasheets.maximintegrated.com/en/ds/MAX3180E-MAX3183E.pdf
+
+
++ <b>KMR431G.lbr</b></br>C&K KMR431G SMD tactile switch (SPST) footprint.
+</br>Datasheet: https<span>://w</span>ww.ckswitches.com/media/1480/kmr4.pdf
