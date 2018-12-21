@@ -27,3 +27,6 @@ Eagle CAD foorprints designed by Nima Sajedi
 
 + <b>KMR431G.lbr</b></br>C&K KMR431G SMD tactile switch (SPST) footprint.
 </br>Datasheet: https<span>://w</span>ww.ckswitches.com/media/1480/kmr4.pdf
+
++ <b>PCA9306.lbr</b></br>TI Dual Bidirectional I2C Bus and SMBus Voltage-Level Translator footprint.
+</br>Datasheet: https<span>://w</span>ww.ti.com/lit/ds/symlink/pca9306.pdf
