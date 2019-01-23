@@ -35,3 +35,5 @@ Eagle CAD foorprints designed by Nima Sajedi
 </br>Datasheet: https<span>://</span>ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf
 
 + <b>VSSOP8.lbr</b></br>General footprint for VSSOP-8 package.
+
++ <b>VSSOP-8.zip</b></br>VSSOP-8 0.5mm DIP adapter for ptototyping. Images of top and bottom are included. Trace width is 12 mil.
