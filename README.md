@@ -31,5 +31,5 @@ Eagle CAD foorprints designed by Nima Sajedi
 + <b>PCA9306.lbr</b></br>TI Dual Bidirectional I2C Bus and SMBus Voltage-Level Translator footprint.
 </br>Datasheet: https<span>://w</span>ww.ti.com/lit/ds/symlink/pca9306.pdf
 
-+ <b>BME280_Mine.lbr</b></br>BOSCH digital humidity, pressure and temperature sensor footprint.
++ <b>BME280_Mine.lbr</b></br>BOSCH digital humidity, pressure and temperature sensor footprint. (Modified SPARKFUN version)
 </br>Datasheet: https<span>://</span>ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf
