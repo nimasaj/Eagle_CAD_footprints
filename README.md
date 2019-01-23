@@ -33,3 +33,5 @@ Eagle CAD foorprints designed by Nima Sajedi
 
 + <b>BME280_Mine.lbr</b></br>BOSCH digital humidity, pressure and temperature sensor footprint. LGA-8 package. (Modified version of [Richard Magdycz](https://www.facebook.com/groups/eaglecadsoftUK))
 </br>Datasheet: https<span>://</span>ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf
+
++ <b>VSSOP8.lbr</b></br>General footprint for VSSOP-8 package.
