@@ -37,3 +37,10 @@ Eagle CAD foorprints designed by Nima Sajedi
 + <b>VSSOP8.lbr</b></br>General footprint for VSSOP-8 package.
 
 + <b>VSSOP-8.zip</b></br>VSSOP-8 0.5mm DIP adapter for ptototyping. Images of top and bottom are included. Trace width is 12 mil.
+
++ <b>JST_B4B-XH-AM(LF)(SN).lbr</b></br>JST B4B XH AM footprint. It has four holes for catch in all corners in case of placing the connector on top, bottom or 180 degree.
+</br>Datasheet: https<span>://w</span>ww.jst-mfg.com/product/pdf/eng/eXH.pdf
+</br>More info: https<span>://w</span>ww.digikey.com/products/en?keywords=B4B-XH-AM(LF)(SN)
+
+
+
